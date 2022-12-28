@@ -1,8 +1,8 @@
 # Proj_Copa
 Data Analytics and Visualization
   
-                                        PROJETO COPA DO MUNDO DE FUTEBOL 2022
-                                                    VISÃO GERAL
+                     PROJETO COPA DO MUNDO DE FUTEBOL 2022
+                                  VISÃO GERAL
 I.	Introdução
 Buscando unir duas paixões “dados e futebol”, desenvolvi este projeto de Data Analytics e Visualização para demonstrar várias 
 estatísticas coletadas durante todos os jogos da Copa do Mundo de Futebol. Na tentativa de torná-lo um projeto totalmente autoral, 

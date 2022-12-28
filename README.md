@@ -29,5 +29,3 @@ IV.	Etapas
 3)	Carga e tratamento dos dados no Power BI.
 4)	Construção das visualizações.
 5)	Publicação do projeto no GitHub.
-
-V.	Requisitos para acessar
